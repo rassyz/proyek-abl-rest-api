@@ -1,0 +1,7 @@
+db/data/*
+*/db/data/*
+../db/data/*
+#src/.env
+#*/src/.env
+*.pem
+*-key.pem
